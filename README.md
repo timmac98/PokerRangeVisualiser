@@ -1,2 +1,2 @@
 # PokerScripts
-A collection of helpful scripts for analysing data from Texas Holdem Poker hands
+A hand range visualiser for use with Poker Tracker 4 reports. 
